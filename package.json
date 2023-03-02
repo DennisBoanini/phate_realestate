@@ -21,15 +21,16 @@
     "react-dom": "18.2.0",
     "react-horizontal-scrolling-menu": "^3.2.5",
     "react-icons": "^4.7.1",
-    "react-responsive-carousel": "^3.2.23"
+    "react-responsive-carousel": "^3.2.23",
+    "sharp": "^0.31.3"
   },
   "devDependencies": {
     "@types/node": "18.14.1",
+    "@types/nprogress": "^0.2.0",
     "@types/react": "18.0.28",
     "@types/react-dom": "18.0.11",
     "eslint": "8.34.0",
     "eslint-config-next": "13.2.1",
-    "typescript": "4.9.5",
-    "@types/nprogress": "^0.2.0"
+    "typescript": "4.9.5"
   }
 }
